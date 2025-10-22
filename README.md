@@ -1,0 +1,3 @@
+# Captcha Solver
+
+MIT License
